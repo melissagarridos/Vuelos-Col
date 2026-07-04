@@ -1,3 +1,4 @@
+name: Actualizar ofertas de vuelos
 
 on:
   schedule:
