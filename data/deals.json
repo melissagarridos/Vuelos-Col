@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03T13:33:41.473958+00:00",
+  "updated_at": "2026-08-04T12:53:40.512921+00:00",
   "origins": [
     "BAQ",
     "CTG",
@@ -75,13 +75,13 @@
       "origin": "BAQ",
       "destination": "MIA",
       "scope": "international",
-      "price": 1519569.0,
+      "price": 1550082.0,
       "currency": "COP",
       "departure_date": "2027-01-03",
       "airline": "AV",
       "transfers": 0,
       "discount_pct": 0.0,
-      "link": "https://www.aviasales.com/search/BAQ0301MIA1?t=AV17989626001798973400000180BAQMIA_8725cee5b217fef3b924cedade4e8f15_38839&search_date=01082026&expected_price_uuid=019fbb77-ac0a-8030-e3f1-6ebd7b772105&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KevBtpbftsUus78K1QH0Jw&expected_price_source=share&expected_price_currency=cop&expected_price=1519569",
+      "link": "https://www.aviasales.com/search/BAQ0301MIA1?t=AV17989626001798973400000180BAQMIA_8725cee5b217fef3b924cedade4e8f15_38834&search_date=04082026&expected_price_uuid=019fcae6-502d-8030-a1ec-11bfef8e4ee5&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=KevBtpbftsUus78K1QH0Jw&expected_price_source=share&expected_price_currency=cop&expected_price=1550082",
       "source": "aviasales"
     },
     {
@@ -101,13 +101,13 @@
       "origin": "BAQ",
       "destination": "PTY",
       "scope": "international",
-      "price": 745229.0,
+      "price": 760620.0,
       "currency": "COP",
-      "departure_date": "2026-08-03",
+      "departure_date": "2026-08-04",
       "airline": "AV",
       "transfers": 1,
       "discount_pct": 0.0,
-      "link": "https://www.aviasales.com/search/BAQ0308PTY1?t=AV17857848001785803700000315BAQBOGPTY_5c1ff075ac2415398f49ffcee6a69326_19141&search_date=03082026&expected_price_uuid=019fc73f-a74a-8030-a761-8216ca9dd476&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=tDlkdItdTtYuc3YRZl9s2Q&expected_price_source=share&expected_price_currency=cop&expected_price=745229",
+      "link": "https://www.aviasales.com/search/BAQ0408PTY1?t=AV17858676001785890100000375BAQBOGPTY_eb01b0b30cad31c11b5e90a40cd3fca4_19160&search_date=04082026&expected_price_uuid=019fcc40-d382-8030-a545-2faf72f2b462&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SN6EoYTyr_54ZYc6pXmuZQ&expected_price_source=share&expected_price_currency=cop&expected_price=760620",
       "source": "aviasales"
     },
     {
@@ -127,13 +127,13 @@
       "origin": "BOG",
       "destination": "CTG",
       "scope": "national",
-      "price": 46492.0,
+      "price": 48443.0,
       "currency": "COP",
       "departure_date": "2026-08-23",
       "airline": "JA",
       "transfers": 0,
-      "discount_pct": 79.3,
-      "link": "https://www.aviasales.com/search/BOG2308CTG1?t=JA17875062001787512020000097BOGCTG_c89588b83c2b929094db68d4c5ecec27_1189&search_date=02082026&expected_price_uuid=019fc125-3b9c-8040-a83d-6ab4c7e55ad7&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=PFncMljzIqK_JoKQgo2aKQ&expected_price_source=share&expected_price_currency=cop&expected_price=46492",
+      "discount_pct": 78.5,
+      "link": "https://www.aviasales.com/search/BOG2308CTG1?t=JA17874843001787490120000097BOGCTG_9de60874a7cb2e6cd2518066a44a60e0_1207&search_date=03082026&expected_price_uuid=019fc912-4850-8040-6125-660f3df803b0&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HeVVNuwuUktfkUEXnyJr2A&expected_price_source=share&expected_price_currency=cop&expected_price=48443",
       "source": "aviasales"
     },
     {
@@ -179,13 +179,13 @@
       "origin": "BOG",
       "destination": "CLO",
       "scope": "national",
-      "price": 83915.0,
+      "price": 93598.0,
       "currency": "COP",
-      "departure_date": "2026-09-16",
-      "airline": "JA",
+      "departure_date": "2026-08-20",
+      "airline": "P5",
       "transfers": 0,
-      "discount_pct": 66.7,
-      "link": "https://www.aviasales.com/search/BOG1609CLO1?t=JA17895921001789596600000075BOGCLO_6428f43ecb087a055c57d2e1a2918343_2045&search_date=28072026&expected_price_uuid=019fa780-f9a0-8040-68a7-e3b2139c1ded&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=jT-Ewu2zhAhqSJP0CX3cWg&expected_price_source=share&expected_price_currency=cop&expected_price=83915",
+      "discount_pct": 62.9,
+      "link": "https://www.aviasales.com/search/BOG2008CLO1?t=P517871915001787195640000069BOGCLO_5395b785ea6782c4e30b5f3b01e5a417_2332&search_date=03082026&expected_price_uuid=019fc9fe-0c26-8040-2af0-d2bb9c234772&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=UmAAUJUc2jX2FLWsLA3Y5w&expected_price_source=share&expected_price_currency=cop&expected_price=93598",
       "source": "aviasales"
     },
     {
@@ -218,13 +218,13 @@
       "origin": "BOG",
       "destination": "CUN",
       "scope": "international",
-      "price": 403610.0,
+      "price": 453630.0,
       "currency": "COP",
       "departure_date": "2026-11-05",
       "airline": "VB",
       "transfers": 0,
-      "discount_pct": 55.2,
-      "link": "https://www.aviasales.com/search/BOG0511CUN1?t=VB17938446001793857500000215BOGCUN_13e368899cf81b0e4f051ddacc0fee34_10307&search_date=31072026&expected_price_uuid=019fba72-6e0a-8030-a6e6-c07f2d86151b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=eIma2woDW44J0cXwNhPW1g&expected_price_source=share&expected_price_currency=cop&expected_price=403610",
+      "discount_pct": 49.6,
+      "link": "https://www.aviasales.com/search/BOG0511CUN1?t=VB17938446001793857500000215BOGCUN_13e368899cf81b0e4f051ddacc0fee34_11300&search_date=03082026&expected_price_uuid=019fc9e5-312e-8030-6c3e-417536f98585&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=eIma2woDW44J0cXwNhPW1g&expected_price_source=share&expected_price_currency=cop&expected_price=453630",
       "source": "aviasales"
     },
     {
@@ -307,19 +307,6 @@
     },
     {
       "origin": "BOG",
-      "destination": "BCN",
-      "scope": "international",
-      "price": 1887125.0,
-      "currency": "COP",
-      "departure_date": "2026-11-20",
-      "airline": "UX",
-      "transfers": 2,
-      "discount_pct": 30.1,
-      "link": "https://www.aviasales.com/search/BOG2011BCN1?t=UX17952105001795295700001060BOGMADFCOBCN_8173d0500f68e302d34c077e385900d1_46316&search_date=28072026&expected_price_uuid=019fa881-d5cc-8030-e3bd-71bf6fb68ef2&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=VzLn8U4DTpAVK-ujLo0urw&expected_price_source=share&expected_price_currency=cop&expected_price=1887125",
-      "source": "aviasales"
-    },
-    {
-      "origin": "BOG",
       "destination": "UIO",
       "scope": "international",
       "price": 504554.0,
@@ -346,6 +333,19 @@
     },
     {
       "origin": "BOG",
+      "destination": "BCN",
+      "scope": "international",
+      "price": 2009350.0,
+      "currency": "COP",
+      "departure_date": "2026-08-19",
+      "airline": "CM",
+      "transfers": 3,
+      "discount_pct": 25.6,
+      "link": "https://www.aviasales.com/search/BOG1908BCN1?t=B617871198001787305500002675BOGPTYSJUBOSBCN_e9facad0028da0166946ea4f027d2477_50938&search_date=30072026&expected_price_uuid=019fb3d6-588a-8050-61f8-52181c0615ef&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=7qAjWQFJqXb4-BuYlIpQZw&expected_price_source=share&expected_price_currency=cop&expected_price=2009350",
+      "source": "aviasales"
+    },
+    {
+      "origin": "BOG",
       "destination": "LIM",
       "scope": "international",
       "price": 694602.0,
@@ -355,19 +355,6 @@
       "transfers": 1,
       "discount_pct": 14.2,
       "link": "https://www.aviasales.com/search/BOG0909LIM1?t=JA17889444001788986100000695BOGMDELIM_72e73c207dea6a554f8dc1ab465442d0_17664&search_date=30072026&expected_price_uuid=019fb32f-22b1-8030-6507-5cd4a1088809&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=n_nfSRwNRfV7IBHQpbuH9Q&expected_price_source=share&expected_price_currency=cop&expected_price=694602",
-      "source": "aviasales"
-    },
-    {
-      "origin": "BOG",
-      "destination": "MIA",
-      "scope": "international",
-      "price": 714093.0,
-      "currency": "COP",
-      "departure_date": "2026-09-01",
-      "airline": "DM",
-      "transfers": 1,
-      "discount_pct": 11.8,
-      "link": "https://www.aviasales.com/search/BOG0109MIA1?t=DM17882571001788285300000410BOGSDQMIA_3a9b2ceb4cd53729e715b5b303acc2b8_18274&search_date=02082026&expected_price_uuid=019fc408-9c4f-8040-61f1-168f66678ed9&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zeDjx0dwcouw9ErrW4FRmw&expected_price_source=share&expected_price_currency=cop&expected_price=714093",
       "source": "aviasales"
     },
     {
@@ -398,6 +385,19 @@
     },
     {
       "origin": "BOG",
+      "destination": "MIA",
+      "scope": "international",
+      "price": 803345.0,
+      "currency": "COP",
+      "departure_date": "2026-09-03",
+      "airline": "DM",
+      "transfers": 1,
+      "discount_pct": 0.8,
+      "link": "https://www.aviasales.com/search/BOG0309MIA1?t=DM17884299001788463320000497BOGSDQMIA_a0cab11d356474f86a9caf4f219d1814_20016&search_date=03082026&expected_price_uuid=019fc8f3-3898-8030-24d5-ed54ea0d300c&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=P1wLI70KxcxA-3Q6njVdyw&expected_price_source=share&expected_price_currency=cop&expected_price=803345",
+      "source": "aviasales"
+    },
+    {
+      "origin": "BOG",
       "destination": "MCO",
       "scope": "international",
       "price": 1134366.0,
@@ -413,13 +413,13 @@
       "origin": "BOG",
       "destination": "PTY",
       "scope": "international",
-      "price": 695161.0,
+      "price": 704439.0,
       "currency": "COP",
-      "departure_date": "2026-08-09",
-      "airline": "CM",
-      "transfers": 0,
+      "departure_date": "2026-08-26",
+      "airline": "JA",
+      "transfers": 1,
       "discount_pct": 0.0,
-      "link": "https://www.aviasales.com/search/BOG0908PTY1?t=CM17862558001786262460000111BOGPTY_15b6b7e37e376f120ed616f4fae6dc38_16933&search_date=27072026&expected_price_uuid=019fa54c-1fce-8030-a5aa-f9fd23df536a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=XL_LJnW0PsWQ9_X2aCLL6Q&expected_price_source=share&expected_price_currency=cop&expected_price=695161",
+      "link": "https://www.aviasales.com/search/BOG2608PTY1?t=CM17877213001787745720000407BOGMDEPTY_093f1534179d8f3a4f77fb831ab28113_17671&search_date=04082026&expected_price_uuid=019fcc0a-99db-8030-e4f1-cbf449a112ab&static_fare_key=TY%7CP1%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=Rt_mk1DGPnPeCVaZIwwRnQ&expected_price_source=share&expected_price_currency=cop&expected_price=704439",
       "source": "aviasales"
     },
     {
@@ -476,19 +476,6 @@
     },
     {
       "origin": "CTG",
-      "destination": "SCL",
-      "scope": "international",
-      "price": 627793.0,
-      "currency": "COP",
-      "departure_date": "2026-08-21",
-      "airline": "JA",
-      "transfers": 1,
-      "discount_pct": 58.1,
-      "link": "https://www.aviasales.com/search/CTG2108SCL1?t=JA17872949401787357460000982CTGMDESCL_06202479fcb36e9f6acea1108652e9cd_15910&search_date=30072026&expected_price_uuid=019fb48f-b5cb-8030-e11e-b6382ee4b9ed&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=_jZKfL1_kB3z5tzoVKMOKA&expected_price_source=share&expected_price_currency=cop&expected_price=627793",
-      "source": "aviasales"
-    },
-    {
-      "origin": "CTG",
       "destination": "BOG",
       "scope": "national",
       "price": 114691.0,
@@ -502,6 +489,19 @@
     },
     {
       "origin": "CTG",
+      "destination": "SCL",
+      "scope": "international",
+      "price": 830036.0,
+      "currency": "COP",
+      "departure_date": "2026-08-19",
+      "airline": "AV",
+      "transfers": 1,
+      "discount_pct": 44.7,
+      "link": "https://www.aviasales.com/search/CTG1908SCL1?t=JA17871786001787271060001481CTGMDESCL_a2c8acf7be51fb76ac0b9d609fc980e1_21055&search_date=30072026&expected_price_uuid=019fb2ac-7781-8030-657d-f9bdc60c6f4d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=HohJRqi1J6UdKxf2DRiINQ&expected_price_source=share&expected_price_currency=cop&expected_price=830036",
+      "source": "aviasales"
+    },
+    {
+      "origin": "CTG",
       "destination": "MAD",
       "scope": "international",
       "price": 1678611.0,
@@ -511,6 +511,19 @@
       "transfers": 0,
       "discount_pct": 40.0,
       "link": "https://www.aviasales.com/search/CTG1610MAD1?t=2W17921802001792237800000540CTGMAD_7432283e467c13ea233695fd27698592_42904&search_date=01082026&expected_price_uuid=019fbc26-c1d1-8030-e8f0-528d8cdd3b0b&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=4DWfjA7LZN3fvynuCvtmYQ&expected_price_source=share&expected_price_currency=cop&expected_price=1678611",
+      "source": "aviasales"
+    },
+    {
+      "origin": "CTG",
+      "destination": "EZE",
+      "scope": "international",
+      "price": 1112208.0,
+      "currency": "COP",
+      "departure_date": "2026-08-20",
+      "airline": "AV",
+      "transfers": 2,
+      "discount_pct": 38.2,
+      "link": "https://www.aviasales.com/search/CTG2008EZE1?t=DM17872005001787283900001270CTGBOGPUJEZE_017f62af5c88ce04f61dbb4a0d53fc8e_27864&search_date=04082026&expected_price_uuid=019fcb7f-8eef-8050-a633-e7ab8041d1d6&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=BxrcATsd03DvFZJtZdDo1w&destination_airports=0&expected_price_source=share&expected_price_currency=cop&expected_price=1112208",
       "source": "aviasales"
     },
     {
@@ -530,13 +543,13 @@
       "origin": "CTG",
       "destination": "JFK",
       "scope": "international",
-      "price": 882884.0,
+      "price": 917530.0,
       "currency": "COP",
       "departure_date": "2026-10-09",
       "airline": "AA",
       "transfers": 1,
-      "discount_pct": 32.1,
-      "link": "https://www.aviasales.com/search/CTG0910JFK1?t=AA17915529001791586560000501CTGMIAJFK_2fcb520948c81298453e1608b9bc276c_22789&search_date=03082026&expected_price_uuid=019fc7ad-be54-8040-6ac7-5b93e59c3380&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=zRrEXglo5UfcRJW0RiIKmQ&destination_airports=0&expected_price_source=share&expected_price_currency=cop&expected_price=882884",
+      "discount_pct": 29.4,
+      "link": "https://www.aviasales.com/search/CTG0910JFK1?t=AA17915529001791593880000623CTGMIAJFK_560fa447d8eed4c96041918888d33bef_22791&search_date=03082026&expected_price_uuid=019fc86a-418d-8040-649f-8b604615ca64&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=MzucpXLyCI_QR4jGiC0FCA&destination_airports=0&expected_price_source=share&expected_price_currency=cop&expected_price=917530",
       "source": "aviasales"
     },
     {
@@ -569,26 +582,13 @@
       "origin": "CTG",
       "destination": "UIO",
       "scope": "international",
-      "price": 609176.0,
+      "price": 633099.0,
       "currency": "COP",
       "departure_date": "2026-08-08",
       "airline": "AV",
       "transfers": 1,
-      "discount_pct": 23.9,
-      "link": "https://www.aviasales.com/search/CTG0808UIO1?t=AV17862207001786264800000735CTGBOGUIO_4f47755f85a5a58d481d958de6dda1dd_15560&search_date=03082026&expected_price_uuid=019fc67a-a7be-8040-a22c-e695a461dd28&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-x_x6OHp05jumlwtof3RGQ&expected_price_source=share&expected_price_currency=cop&expected_price=609176",
-      "source": "aviasales"
-    },
-    {
-      "origin": "CTG",
-      "destination": "EZE",
-      "scope": "international",
-      "price": 1489220.0,
-      "currency": "COP",
-      "departure_date": "2026-08-08",
-      "airline": "AV",
-      "transfers": 2,
-      "discount_pct": 17.3,
-      "link": "https://www.aviasales.com/search/CTG0808EZE1?t=AV17861967001786321500001960CTGBGABOGEZE_4903ae4348b2fa3ec42fe51d5388252d_37287&search_date=29072026&expected_price_uuid=019fafe8-5f54-8030-a1e6-2a3d3deed43d&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=C2GAxCaqYD7R4FLA15UYfg&destination_airports=0&expected_price_source=share&expected_price_currency=cop&expected_price=1489220",
+      "discount_pct": 20.9,
+      "link": "https://www.aviasales.com/search/CTG0808UIO1?t=AV17862207001786264800000735CTGBOGUIO_4f47755f85a5a58d481d958de6dda1dd_15560&search_date=03082026&expected_price_uuid=019fc67a-a7be-8040-a22c-e695a461dd28&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=-x_x6OHp05jumlwtof3RGQ&expected_price_source=share&expected_price_currency=cop&expected_price=633099",
       "source": "aviasales"
     },
     {
@@ -602,19 +602,6 @@
       "transfers": 0,
       "discount_pct": 13.2,
       "link": "https://www.aviasales.com/search/CTG1410MIA1?t=AA17919849001791999480000183CTGMIA_5611a1220721b561e687cef804f08279_19995&search_date=02082026&expected_price_uuid=019fc30c-f2f0-8040-a02f-4f560db7489b&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=rab1KdanN-qm4SFdV1IW0Q&expected_price_source=share&expected_price_currency=cop&expected_price=781345",
-      "source": "aviasales"
-    },
-    {
-      "origin": "CTG",
-      "destination": "SMR",
-      "scope": "national",
-      "price": 409067.0,
-      "currency": "COP",
-      "departure_date": "2026-08-04",
-      "airline": "JA",
-      "transfers": 1,
-      "discount_pct": 0.0,
-      "link": "https://www.aviasales.com/search/CTG0408SMR1?t=AV17858251801785878100000882CTGMDESMR_77a3ef1b92186fabcd24dbbf9bb4f852_10102&search_date=29072026&expected_price_uuid=019faba3-2ab8-8040-2b1a-82a31ad08d89&static_fare_key=TY%7CP0%7CH0%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=X_j7KWoQf4eDQxFoJoAFLQ&expected_price_source=share&expected_price_currency=cop&expected_price=409067",
       "source": "aviasales"
     },
     {
@@ -634,13 +621,13 @@
       "origin": "CTG",
       "destination": "PTY",
       "scope": "international",
-      "price": 618084.0,
+      "price": 654689.0,
       "currency": "COP",
       "departure_date": "2026-08-04",
-      "airline": "CM",
-      "transfers": 0,
+      "airline": "AV",
+      "transfers": 1,
       "discount_pct": 0.0,
-      "link": "https://www.aviasales.com/search/CTG0408PTY1?t=CM17858367001785841500000080CTGPTY_001cbc878d4e9ed6b9c176ecd98b4e0e_15170&search_date=28072026&expected_price_uuid=019fa870-7d27-8030-a1ca-8d695f3fb009&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=8ieS8OJQmoseRRV7xd957A&expected_price_source=share&expected_price_currency=cop&expected_price=618084",
+      "link": "https://www.aviasales.com/search/CTG0408PTY1?t=AV17858592001785890100000515CTGBOGPTY_80feb1d077a517a570fb6ae3a9c280ce_16523&search_date=04082026&expected_price_uuid=019fcc59-4c22-8030-abce-6ac56de55ee9&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=U7U8NWe8hH2Oze2UdJaC3Q&expected_price_source=share&expected_price_currency=cop&expected_price=654689",
       "source": "aviasales"
     },
     {
@@ -667,6 +654,19 @@
       "transfers": 2,
       "discount_pct": 0.0,
       "link": "https://www.aviasales.com/search/CTG1810SJO1?t=CM17923633201792400640000682CTGMDEPTYSJO_cbca05d76986f1749da12d0550907092_24347&search_date=31072026&expected_price_uuid=019fb962-b8bc-8040-2f32-f263019511f5&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH0%7CR0%7CTBC0&itinerary_key=SypSNZ25aPsvLG8kMLfXBA&expected_price_source=share&expected_price_currency=cop&expected_price=953576",
+      "source": "aviasales"
+    },
+    {
+      "origin": "CTG",
+      "destination": "CUR",
+      "scope": "international",
+      "price": 900119.0,
+      "currency": "COP",
+      "departure_date": "2026-08-21",
+      "airline": "CM",
+      "transfers": 1,
+      "discount_pct": 0.0,
+      "link": "https://www.aviasales.com/search/CTG2108CUR1?t=CM17873055001787337060000466CTGPTYCUR_363cf145df43f53262a2f8e446c2f9cd_22356&search_date=03082026&expected_price_uuid=019fc83b-351b-8030-a94d-8d26e21ef70a&static_fare_key=TY%7CP0%7CH1%7CL0%7CCH1%7CR0%7CTBC0&itinerary_key=gErFcLx2WcK9EcrsLsTS7A&expected_price_source=share&expected_price_currency=cop&expected_price=900119",
       "source": "aviasales"
     },
     {
